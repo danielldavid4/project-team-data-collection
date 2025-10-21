@@ -1,0 +1,16 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+5,0,0,88,62,frame_00.png,100,100
+5,0,0,94,61,frame_01.png,100,100
+5,0,1,87,58,frame_02.png,100,100
+5,0,3,82,56,frame_03.png,100,100
+5,0,5,80,55,frame_04.png,100,100
+5,0,7,77,53,frame_05.png,100,100
+5,0,13,83,51,frame_06.png,100,100
+5,0,23,94,56,frame_07.png,100,100
+5,1,8,99,63,frame_08.png,100,100
+5,0,0,99,74,frame_09.png,100,100
+5,0,14,89,61,frame_10.png,100,100
+5,0,14,92,55,frame_11.png,100,100
+5,0,15,96,51,frame_12.png,100,100
+5,0,16,95,51,frame_13.png,100,100
+5,0,18,99,51,frame_14.png,100,100
