@@ -1,0 +1,9 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+3,52,17,25,5,frame_07.png,100,100
+3,56,33,12,10,frame_08.png,100,100
+3,56,34,7,9,frame_09.png,100,100
+3,54,34,7,9,frame_10.png,100,100
+3,53,35,6,7,frame_11.png,100,100
+3,52,34,7,9,frame_12.png,100,100
+3,51,34,7,9,frame_13.png,100,100
+3,50,35,7,10,frame_14.png,100,100
