@@ -1,1 +1,16 @@
 label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+1,36,16,29,24,frame_00.png,100,100
+1,31,17,34,23,frame_01.png,100,100
+1,33,17,30,20,frame_02.png,100,100
+1,32,16,30,21,frame_03.png,100,100
+1,33,17,30,20,frame_04.png,100,100
+1,31,16,33,23,frame_05.png,100,100
+1,30,16,35,21,frame_06.png,100,100
+1,30,14,33,25,frame_07.png,100,100
+1,32,18,33,21,frame_08.png,100,100
+1,31,15,33,23,frame_09.png,100,100
+1,32,14,32,24,frame_10.png,100,100
+1,31,15,35,23,frame_11.png,100,100
+1,32,13,32,25,frame_12.png,100,100
+1,31,12,33,25,frame_13.png,100,100
+1,29,12,36,25,frame_14.png,100,100
